@@ -1,6 +1,6 @@
 # Multithread Bitcoin vanity address generator
 
-This tool generates a random Bitcoin key pair and checks if the generated address contains a user-specified phrase. If the address contains the phrase, the tool outputs the address and private key. Otherwise, it outputs a message indicating that no address was found containing the phrase.
+This offline tool generates a random Bitcoin key pair and checks if the generated address contains a user-specified phrase. If the address contains the phrase, the tool outputs the address and private key. Otherwise, it outputs a message indicating that no address was found containing the phrase.
 
 A Bitcoin address that contains a specific phrase or word is known as a **vanity address**. Vanity addresses can make it easier to remember or share your Bitcoin address, and can also be used to personalize your wallet or associate it with a specific brand or identity.
 
@@ -19,6 +19,7 @@ To install this tool, you will need to have Node.js installed on your system. On
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the directory where you cloned the repository.
 3. Run the command `npm install` to install the dependencies.
+4. After npm install you can turn off the internet connection.
 
 ## Usage
 
