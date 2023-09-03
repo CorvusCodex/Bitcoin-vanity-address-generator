@@ -1,4 +1,4 @@
-#Multithread Bitcoin vanity address generator
+# Multithread Bitcoin vanity address generator
 
 This tool generates a random Bitcoin key pair and checks if the generated address contains a user-specified phrase. If the address contains the phrase, the tool outputs the address and private key. Otherwise, it outputs a message indicating that no address was found containing the phrase.
 
