@@ -38,6 +38,11 @@ This tool uses several dependencies to provide its functionality:
 - `readline`: A built-in Node.js module that provides an interface for reading data from a Readable stream (such as `process.stdin`) one line at a time.
 - `worker_threads`: A built-in Node.js module that allows you to create multiple threads and execute JavaScript tasks in parallel.
 
+>Support my work:<br>
+>BTC: bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3<br>
+>ETH & BNB: 0x68B6D33Ad1A3e0aFaDA60d6ADf8594601BE492F0<br>
+>Buy me a coffee: https://www.buymeacoffee.com/CorvusCodex
+
 ## Disclaimer
 
 The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY. It is not allowed to use this script for any illegal or unethical activities.
